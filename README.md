@@ -1,5 +1,8 @@
-In effect: 07/16/2024
+In effect: 07/16/2024\n
 Last update: 07/16/2024
+
+> [!WARNING]
+> Failure to follow these terms may result in a permanent ban from our services.
 
 # Introduction
 
@@ -18,7 +21,5 @@ Welcome to Global's Terms Of Use, this tells you how to use Global correctly.
 ## 6.
   Don't play with anyone, if they don't like it they can report you.
 
-It is important to say that you must follow the [Discord Terms Of Service](https://discord.com/terms) in addition to the terms above.
-
-> [!WARNING]
-> Failure to follow these terms may result in a permanent ban from our services.
+## 7.
+  Follow the [Discord Terms Of Service](https://discord.com/terms).
