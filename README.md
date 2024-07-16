@@ -1,4 +1,4 @@
-> In effect: 07/16/2024
+> In effect: 07/16/2024  
 > Last update: 07/16/2024
 
 > [!WARNING]
