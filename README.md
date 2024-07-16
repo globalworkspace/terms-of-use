@@ -1,12 +1,12 @@
-> In effect: 07/16/2024  
-> Last update: 07/16/2024
+In effect: 07/16/2024  
+Last update: 07/16/2024
 
 > [!WARNING]
 > Failure to follow these terms may result in a permanent ban from our services.
 
 # Introduction
 
-Welcome to Global's Terms Of Use, this tells you how to use Global correctly.
+Welcome to Global's Terms Of Use, this tells you how to use Global's correctly.
 
 ## 1.
   Make sure you respect other users, do not treat someone differently because of their race, religion, political position, or any other opinion.
